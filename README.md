@@ -12,3 +12,17 @@ installing...
     
 # check
 brew -v
+
+2. Install git
+# https://git-scm.com/download/mac
+brew install git
+# check
+git --version
+Git ssh-keygen
+# https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+ssh-keygen -t ed25519 -C "e.s.gontareva@gmail.com"
+Copy ssh key, go to https://github.com/settings/keys, and add ssh key
+
+pbcopy < ~/.ssh/id_ed25519.pub
+# OR
+cat ~/.ssh/id_ed25519.pub
