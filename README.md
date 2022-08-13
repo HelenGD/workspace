@@ -32,7 +32,7 @@
 
 </details>
 
-## 2. git
+ <summary>git</summary>
 ```sh
 # https://git-scm.com/download/mac
 brew install git
