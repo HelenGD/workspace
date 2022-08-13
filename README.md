@@ -53,25 +53,31 @@ pbcopy < ~/.ssh/id_ed25519.pub
 cat ~/.ssh/id_ed25519.pub
 ```
 </details>
-## 3. oh-my-zsh
+  
+<details>
+<summary>oh-my-zsh</summary>
 ```sh
 # https://ohmyz.sh/#install
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
-
-## 4. nvm
+</details>
+  
+<details>
+  <summary>nvm</summary>
 ```sh
 # https://github.com/nvm-sh/nvm
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 # check
 nvm -v
 ```
+</details>
 
-## 5. node js
+  <details>
+<summary>node js</summary>
 ```sh
 # https://github.com/nvm-sh/nvm
 nvm install --lts
 # check
 node -v
 ```
-
+</details>
