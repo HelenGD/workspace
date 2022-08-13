@@ -32,6 +32,7 @@
 
 </details>
 
+<details>
  <summary>git</summary>
 ```sh
 # https://git-scm.com/download/mac
@@ -51,7 +52,7 @@ pbcopy < ~/.ssh/id_ed25519.pub
 # OR
 cat ~/.ssh/id_ed25519.pub
 ```
-
+</details>
 ## 3. oh-my-zsh
 ```sh
 # https://ohmyz.sh/#install
