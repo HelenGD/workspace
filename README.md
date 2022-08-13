@@ -63,6 +63,7 @@ cat ~/.ssh/id_ed25519.pub
   
 <details>
 <summary>oh-my-zsh</summary>
+
 #### Installation
 https://ohmyz.sh/#install
 
@@ -86,9 +87,13 @@ nvm -v
 
   <details>
 <summary>node js</summary>
-```sh
-# https://github.com/nvm-sh/nvm
+    
+#### Installation
+https://github.com/nvm-sh/nvm
+    
+```sh    
 nvm install --lts
+```
     
 #### Check
 ```sh
