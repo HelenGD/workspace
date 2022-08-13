@@ -37,7 +37,11 @@
 ```sh
 # https://git-scm.com/download/mac
 brew install git
-# check
+  
+  
+#### Check
+  
+ ```sh 
 git --version
 ```
 
