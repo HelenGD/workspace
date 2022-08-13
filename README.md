@@ -63,8 +63,10 @@ cat ~/.ssh/id_ed25519.pub
   
 <details>
 <summary>oh-my-zsh</summary>
+#### Installation
+https://ohmyz.sh/#install
+
 ```sh
-# https://ohmyz.sh/#install
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 </details>
