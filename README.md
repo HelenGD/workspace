@@ -34,11 +34,13 @@
 
 <details>
  <summary>git</summary>
-```sh
+
 #### Installation
 https://git-scm.com/download/mac
-brew install git
   
+```sh  
+brew install git
+```
   
 #### Check
   
