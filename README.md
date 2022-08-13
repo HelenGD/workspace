@@ -73,10 +73,11 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
   
 <details>
   <summary>nvm</summary>
-```sh
-# https://github.com/nvm-sh/nvm
+  #### Installation
+  https://github.com/nvm-sh/nvm
+  ```sh
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
-  
+ ``` 
 #### Check
 ```sh
 nvm -v
