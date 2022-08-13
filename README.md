@@ -35,7 +35,8 @@
 <details>
  <summary>git</summary>
 ```sh
-# https://git-scm.com/download/mac
+#### Installation
+https://git-scm.com/download/mac
 brew install git
   
   
